@@ -1,2 +1,3 @@
 # retoChatMongo
-El ejercicio fue desarrollado en la carpeta ejercicio
+El ejercicio fue desarrollado en la carpeta expressmongo
+
